@@ -2744,7 +2744,7 @@ input, select, textarea {
 		}
 
 			.main .container:before {
-				min-height: calc( 100vh - 13em);
+				/* min-height: calc( 100vh - 13em); */
 				content: '';
 				display: inline-block;
 				vertical-align: middle;
