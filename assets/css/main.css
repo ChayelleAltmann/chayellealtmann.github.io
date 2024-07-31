@@ -92,11 +92,11 @@ input, select, textarea {
 	} */
 	html {
 		background-color: #52447c;
-		/* background-attachment: fixed,						fixed;
+		background-attachment: fixed,						fixed;
 		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
-		background-size: auto,						cover; */
+		background-size: auto,						cover;
 	}
 
 	html.is-preload *, html.is-preload *:before, html.is-preload *:after {
